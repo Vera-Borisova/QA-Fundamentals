@@ -1,2 +1,2 @@
 # QA-Fundamentals
-Courses for my education at SoftUni.
+Courses for my education at SoftUni...
